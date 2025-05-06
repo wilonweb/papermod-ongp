@@ -9,6 +9,8 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
   ShowWordCount = true
+  disableFingerprinting = true
+  disableSRI = true
 
 [menu]
   [[menu.main]]
