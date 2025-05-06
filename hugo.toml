@@ -1,5 +1,5 @@
-baseURL = "https://ton-utilisateur.github.io/ton-repo/"
-languageCode = "fr"
+baseURL = "https://wilonweb.github.io/papermod-ongp/"
+languageCode = "en-us"
 title = "Mon Blog"
 theme = "PaperMod"
 
