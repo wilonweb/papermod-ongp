@@ -12,6 +12,10 @@ theme = "PaperMod"
   disableFingerprinting = true
   disableSRI = true
 
+[outputs]
+home = ["HTML"]
+
+
 [menu]
   [[menu.main]]
     identifier = "about"
